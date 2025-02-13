@@ -1,14 +1,55 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
+📚 CMP-Bookpedia
 
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
+CMP-Bookpedia is a mobile application that allows users to search, explore, and save their favorite books. It provides book details, including synopsis, ratings, and different language versions.
 
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+🚀 Features
+
+🔍 Book Search: Find books by title or keyword.
+
+📖 Book Details: View book information, including synopsis, ratings, and languages available.
+
+❤️ Favorites: Save your favorite books for quick access.
+
+🌍 Multi-Language Support: Display book information in different languages.
+
+📸 Screenshots
 
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
+
+🛠 Tech Stack
+
+Frontend: React Native
+
+Backend: Firebase / Node.js
+
+Database: Firestore / MongoDB
+
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/CMP-Bookpedia.git
+cd CMP-Bookpedia
+
+Install dependencies:
+
+npm install
+
+Start the application:
+
+npm start
+
+🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+📧 Contact
+
+For any queries, reach out to your-email@example.com.
+
