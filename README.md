@@ -1,3 +1,5 @@
+Here is an updated version of your README file with a section added for a video demo:
+
 # 📚 CMP-Bookpedia
 
 CMP-Bookpedia is a mobile application that allows users to search, explore, and save their favorite books. It provides book details, including synopsis, ratings, and different language versions.
@@ -11,9 +13,11 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 ## 📸 Screenshots
 <img width="379" alt="Screenshot 2025-02-11 at 12 38 49 AM" src="https://github.com/user-attachments/assets/4e4ffbdf-3992-4b05-818a-2d4df3397119" />
 <img width="379" alt="Screenshot 2025-02-11 at 12 38 55 AM" src="https://github.com/user-attachments/assets/3e2760a5-5636-49ae-baf2-9d17fd4fd920" />
-
 <img width="379" alt="Screenshot 2025-02-11 at 12 38 09 AM" src="https://github.com/user-attachments/assets/d3505c44-6e76-4bc5-9456-e0b69c25426e" />
 
+## 📹 Video Demo
+Watch the video demo of CMP-Bookpedia to see it in action:
+[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
 
 ## 🛠 Tech Stack
 - **Frontend**: React Native
@@ -44,5 +48,4 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 For any queries, reach out to [your-email@example.com](mailto:your-email@example.com).
 
-
-
+Replace `your-video-id` with the actual YouTube video ID for your demo. If you have the video hosted elsewhere, update the link accordingly.
