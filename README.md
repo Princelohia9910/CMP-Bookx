@@ -9,8 +9,9 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 - 🌍 **Multi-Language Support**: Display book information in different languages.
 
 ## 📸 Screenshots
-<img width="379" alt="Screenshot 2025-02-11 at 12 38 55 AM" src="https://github.com/user-attachments/assets/3e2760a5-5636-49ae-baf2-9d17fd4fd920" />
 <img width="379" alt="Screenshot 2025-02-11 at 12 38 49 AM" src="https://github.com/user-attachments/assets/4e4ffbdf-3992-4b05-818a-2d4df3397119" />
+<img width="379" alt="Screenshot 2025-02-11 at 12 38 55 AM" src="https://github.com/user-attachments/assets/3e2760a5-5636-49ae-baf2-9d17fd4fd920" />
+
 <img width="379" alt="Screenshot 2025-02-11 at 12 38 09 AM" src="https://github.com/user-attachments/assets/d3505c44-6e76-4bc5-9456-e0b69c25426e" />
 
 
