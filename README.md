@@ -20,9 +20,8 @@ Watch the video demo of CMP-Bookpedia to see it in action:
 [![Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=sharing)
 
 ## 🛠 Tech Stack
-- **Frontend**: React Native
-- **Backend**: Firebase / Node.js
-
+- **Frontend**: Jetpack Compose
+- **API Integration**: REST APIs for fetching book details
 
 ## 📦 Installation
 1. Clone the repository:
