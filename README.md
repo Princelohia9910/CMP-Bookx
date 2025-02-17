@@ -17,11 +17,12 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 
 ## 📹 Video Demo
 Watch the video demo of CMP-Bookpedia to see it in action:
-[Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=sharing)
+[Watch the video](https://drive.google.com/file/d/1vsrbG2nE2DMoxk6k1fPutTU67l97Ait5/view?usp=sharing)
 
 ## 🛠 Tech Stack
 - **Frontend**: Jetpack Compose
 - **API Integration**: REST APIs for fetching book details
+- **Architecture**: MVVM (Model-View-ViewModel)
 
 ## 📦 Installation
 1. Clone the repository:
