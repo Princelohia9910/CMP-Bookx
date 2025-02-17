@@ -1,4 +1,4 @@
-Here is an updated version of your README file with a section added for a video demo:
+
 
 # 📚 CMP-Bookpedia
 
@@ -46,6 +46,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any queries, reach out to [your-email@example.com](princelohia9910@gmail.com).
+For any queries, reach out to (princelohia9910@gmail.com).
 
 
