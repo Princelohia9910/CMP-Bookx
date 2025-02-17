@@ -17,7 +17,7 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 
 ## 📹 Video Demo
 Watch the video demo of CMP-Bookpedia to see it in action:
-[![Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=sharing)https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=sharing
 
 ## 🛠 Tech Stack
 - **Frontend**: Jetpack Compose
