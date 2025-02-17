@@ -1,6 +1,6 @@
 
 
-# 📚 CMP-Bookpedia
+# 📚 CMP-BookX
 
 CMP-Bookpedia is a mobile application that allows users to search, explore, and save their favorite books. It provides book details, including synopsis, ratings, and different language versions.
 
