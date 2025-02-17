@@ -17,12 +17,12 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 
 ## 📹 Video Demo
 Watch the video demo of CMP-Bookpedia to see it in action:
-[![Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=drive_link)
+[![Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=sharing)
 
 ## 🛠 Tech Stack
 - **Frontend**: React Native
 - **Backend**: Firebase / Node.js
-- **Database**: Firestore / MongoDB
+
 
 ## 📦 Installation
 1. Clone the repository:
