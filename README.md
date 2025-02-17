@@ -17,7 +17,7 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 
 ## 📹 Video Demo
 Watch the video demo of CMP-Bookpedia to see it in action:
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the video](https://drive.google.com/file/d/17aFTKmaY83NLnvm3yYwDIIcZztd4zBXF/view?usp=drive_link)
 
 ## 🛠 Tech Stack
 - **Frontend**: React Native
@@ -46,6 +46,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any queries, reach out to [your-email@example.com](mailto:your-email@example.com).
+For any queries, reach out to [your-email@example.com](princelohia9910@gmail.com).
 
-Replace `your-video-id` with the actual YouTube video ID for your demo. If you have the video hosted elsewhere, update the link accordingly.
+
