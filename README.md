@@ -1,14 +1,78 @@
+# CMP-Bookx 📚
 
+CMP-Bookx is a cross-platform mobile application designed to deliver a seamless book reading experience on Android and iOS. Built leveraging the power of Kotlin Multiplatform Mobile (KMM), CMP-Bookx demonstrates the efficiency of code sharing while maintaining native performance and user experience for both platforms.
 
-# 📚 CMP-BookX
-
-CMP-Bookpedia is a mobile application that allows users to search, explore, and save their favorite books. It provides book details, including synopsis, ratings, and different language versions.
+---
 
 ## 🚀 Features
-- 🔍 **Book Search**: Find books by title or keyword.
-- 📖 **Book Details**: View book information, including synopsis, ratings, and languages available.
-- ❤️ **Favorites**: Save your favorite books for quick access.
-- 🌍 **Multi-Language Support**: Display book information in different languages.
+
+- 📚 **Read and manage your book library** across Android and iOS
+- 🔄 **Cross-platform codebase:** Shared business logic, networking, and persistence
+- 🎨 **Native UI:** Platform-specific interfaces for a familiar user experience
+- ⚡ **Offline support:** Access your library even without an internet connection
+- 🔒 **Data synchronization:** Secure and efficient syncing across devices (planned)
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+
+- **Kotlin Multiplatform Mobile (KMM):** Enables sharing core logic between Android and iOS.
+- **Kotlin (99.2%):** Primary language for business logic, networking, and data management.
+- **Swift (0.8%):** Used for building native iOS UI and integrating with shared Kotlin code.
+
+### Android
+
+- **Jetpack Libraries:** ViewModel, LiveData, Navigation for robust app architecture.
+- **UI:** Jetpack Compose or XML layouts for modern, reactive UI.
+- **Dependency Injection:** Koin or Dagger for managing dependencies.
+
+### iOS
+
+- **SwiftUI or UIKit:** For building intuitive and responsive native UIs.
+- **Swift Integration:** Seamlessly bridges KMM shared logic with native iOS features.
+
+### Shared Libraries
+
+- **Ktor:** Cross-platform networking for API communication.
+- **SQLDelight:** Type-safe, shared database layer for both platforms.
+- **Kotlinx.serialization:** Efficient data parsing and JSON serialization.
+- **Coroutines:** Asynchronous and concurrent task management.
+
+---
+
+## 📁 Project Structure
+
+```
+CMP-Bookx/
+│
+├── shared/                # Shared Kotlin code (network, database, business logic)
+│   ├── src/
+│   └── build.gradle.kts
+│
+├── androidApp/            # Android-specific code (UI, platform features)
+│   ├── src/
+│   └── build.gradle.kts
+│
+├── iosApp/                # iOS-specific code (UI, platform features)
+│   ├── Sources/
+│   └── Podfile
+│
+└── build.gradle.kts       # Project build configuration
+```
+
+---
+
+## 🚦 Getting Started
+
+### Prerequisites
+
+- **Android Studio (latest)**
+- **Xcode (latest)**
+- **Kotlin Multiplatform plugin**
+- **CocoaPods** (for iOS)
+
 
 ## 📸 Screenshots
 <img width="379" alt="Screenshot 2025-02-11 at 12 38 49 AM" src="https://github.com/user-attachments/assets/4e4ffbdf-3992-4b05-818a-2d4df3397119" />
@@ -19,10 +83,6 @@ CMP-Bookpedia is a mobile application that allows users to search, explore, and 
 Watch the video demo of CMP-Bookpedia to see it in action:
 [Watch the video](https://drive.google.com/file/d/1vsrbG2nE2DMoxk6k1fPutTU67l97Ait5/view?usp=sharing)
 
-## 🛠 Tech Stack
-- **Frontend**: Jetpack Compose
-- **API Integration**: REST APIs for fetching book details
-- **Architecture**: MVVM (Model-View-ViewModel)
 
 ## 📦 Installation
 1. Clone the repository:
